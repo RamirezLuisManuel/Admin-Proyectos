@@ -1,4 +1,6 @@
-com\mx\cbtis\gestor\controller\ProyectosControllerTest.class
-com\mx\cbtis\gestor\controller\UsuarioControllerTest.class
+com\mx\cbtis\gestor\repository\ComentariosRepositoryTest.class
+com\mx\cbtis\gestor\repository\AsignacionesRepositoryTest.class
+com\mx\cbtis\gestor\repository\ProtectosRepositoryTest.class
 com\mx\cbtis\gestor\Ejercicio5MyApiGestorApplicationTests.class
-com\mx\cbtis\gestor\controller\TareasControllerTest.class
+com\mx\cbtis\gestor\repository\TareasRepositoryTest.class
+com\mx\cbtis\gestor\repository\UsuarioRepositoryTest.class
